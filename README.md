@@ -40,5 +40,5 @@ An individual academic project applying K-Means Clustering to customer data.
 
 ## 📫 Connect With Me
 
-- [LinkedIn](YOUR-LINKEDIN-URL)
+- [LinkedIn](www.linkedin.com/in/claudia-sabattini-sagala-684066426)
 
